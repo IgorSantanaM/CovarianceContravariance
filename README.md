@@ -29,7 +29,7 @@ To run this example locally or integrate it into your project:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/IgorSantanaM/CovarianceContravariance.git
    ```
 2. Open the solution in Visual Studio or your preferred IDE.
 3. Compile and run the project to see the output demonstrating covariance and contravariance.
